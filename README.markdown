@@ -19,9 +19,10 @@ Google Go is of course available from at http://golang.org/
 
 Further reading:
   
-  http://en.wikipedia.org/wiki/Google_go
-  http://golang.org/doc/effective_go.html
-  http://www.getwebgo.com/
-  http://blog.golang.org/
-  http://news.ycombinator.com/item?id=2336777
+ * http://en.wikipedia.org/wiki/Google_go
+ * http://golang.org/doc/effective_go.html
+ * http://www.getwebgo.com/
+ * http://blog.golang.org/
+ * http://news.ycombinator.com/item?id=2336777
+
 
