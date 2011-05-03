@@ -24,5 +24,5 @@ Further reading:
  * http://www.getwebgo.com/
  * http://blog.golang.org/
  * http://news.ycombinator.com/item?id=2336777
-
+ * http://go-lang.cat-v.org/go-code
 
